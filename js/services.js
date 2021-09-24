@@ -21,4 +21,4 @@ async function login (name){
     })
     const updated_data = await data.json()
     return updated_data
-}
+} 
